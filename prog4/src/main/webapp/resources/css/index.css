@@ -1,0 +1,25 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jan 6, 2024, 5:35:26 PM
+    Author     : Franco Pecci
+*/
+
+h1 {
+    color: red;
+}
+
+.custom-link {
+    color: skyblue;
+    text-decoration: none;
+    text-align: center;
+}
+
+.custom {
+    background-color: white;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
